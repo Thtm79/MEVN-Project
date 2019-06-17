@@ -1,2 +1,2 @@
-# MEVN - Boilerplate
-Boiler plate for getting started with MEVN stack
+# MEVN Project  
+Full stack with Javascript
